@@ -1,7 +1,8 @@
-# Expense Tracker (React)
+# Expense Tracker
 
 Simple Expense Tracker in React JS.
 It uses functional components with hooks and the context API
+
 
 ## Usage
 ```
@@ -13,4 +14,4 @@ npm start
 # Build for prod
 npm run build
 ```
-
+Followed Tutorial by [Traversy Media](https://youtu.be/XuFDcZABiDQ).
