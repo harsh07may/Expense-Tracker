@@ -14,4 +14,3 @@ npm start
 # Build for prod
 npm run build
 ```
-Followed Tutorial by [Traversy Media](https://youtu.be/XuFDcZABiDQ).
